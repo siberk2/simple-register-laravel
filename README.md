@@ -5,6 +5,8 @@ How to clone and use repo:
 
         composer install
         cp .env.example .env(copy .env.example .env if you are in windows)
+        npm install
+        npm run dev
         php artisan key:generate
     
     3. run your web server and create a new database called 'login' the dbms im using is myql(DISCLAIMER: i Accidentally named the database login instead of register and the controllers and stuff because it was night)
