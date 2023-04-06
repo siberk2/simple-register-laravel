@@ -1,6 +1,6 @@
 How to clone and use repo:
 
-    1. use command: git clone -b master --single-branch https://github.com/siberk2/simple-register-laravel
+    1. use command: git clone https://github.com/siberk2/simple-register-laravel
     2. in the cloned repo folder run the following commands after each other:
 
         composer install
